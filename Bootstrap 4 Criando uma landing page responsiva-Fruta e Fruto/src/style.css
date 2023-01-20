@@ -1,0 +1,38 @@
+.cartao-largura
+{
+    max-width: 18rem;
+}
+.imagem-carrossel1
+{
+    height: 400px;
+    object-fit: cover;/*Com isso a imagem vai preencher tudo e não vai achatar*/
+    object-position: 0 75%; /*X Y*/
+}
+.imagem-carrossel2
+{
+    height: 400px;
+    object-fit: cover;/*Com isso a imagem vai preencher tudo e não vai achatar*/   
+}
+.titulo-fonte
+{
+    font-family: 'Pacifico', cursive;
+}
+.cor-especial
+{
+    color: darkred!important;/*Só usar quando realmente for muito necessário*/
+}
+.botao-cor-especial
+{
+    background-color: darkred;
+    color: white;
+}
+.borda-cor-especial
+{
+    border-color: darkred;
+}
+.cartao-posicao-imagem
+{
+    object-fit: cover;
+    /*object-position: 0 80%;*/
+    height: 200px;
+}
